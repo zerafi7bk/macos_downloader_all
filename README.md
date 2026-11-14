@@ -1,4 +1,5 @@
 Every macos dmg files from High Sierra to Tahoe
+If you need the board id for OpCore-Simplify, go on this websit: https://mrmacintosh.com/list-of-mac-boardid-deviceid-model-identifiers-machine-models/
 
 # macOS Installer Downloader
 
