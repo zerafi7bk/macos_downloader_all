@@ -38,4 +38,4 @@ You are responsible for complying with Apple's macOS Software License Agreement 
 
 [MIT](LICENSE)
 
-You can find all the dmg files of most of macos in release
+You can find all the dmg files of most macos in release
