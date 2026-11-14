@@ -1,3 +1,5 @@
+Every macos dmg files from High Sierra to Tahoe
+
 # macOS Installer Downloader
 
 [![Build macOS Installer ISO/DMG image](https://github.com/yhpgi/macos_downloader/actions/workflows/build.yaml/badge.svg)](https://github.com/yhpgi/macos_downloader/actions/workflows/build.yaml)
@@ -37,5 +39,3 @@ You are responsible for complying with Apple's macOS Software License Agreement 
 ## License
 
 [MIT](LICENSE)
-
-You can find all the dmg files of most macos in release
